@@ -1,0 +1,4 @@
+luiggi
+echo
+baloo
+rocky

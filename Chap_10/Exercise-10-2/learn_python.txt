@@ -1,0 +1,3 @@
+Python is a very dynamic programming language.
+In Python you can read excel, cvs, and Json files using pandas.
+In Python, you can collect data from the web also known as web scraping.
